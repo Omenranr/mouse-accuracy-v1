@@ -1,5 +1,5 @@
 function Circle() {
-    this.rad = -Math.PI / (3-1);
+    this.rad = -Math.PI / 2;
     this.r = 0;
     this.pgr = settings[1];
     this.speed = settings[0];
